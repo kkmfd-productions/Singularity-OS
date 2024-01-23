@@ -1,0 +1,5 @@
+C:\Users\aries\OneDrive\Desktop\Singularity OS Build\Singularity OS.exe
+C:\Users\aries\OneDrive\Desktop\Singularity OS Build\Singularity OS.dll
+C:\Users\aries\OneDrive\Desktop\Singularity OS Build\Singularity OS.deps.json
+C:\Users\aries\OneDrive\Desktop\Singularity OS Build\Singularity OS.runtimeconfig.json
+C:\Users\aries\OneDrive\Desktop\Singularity OS Build\Singularity OS.pdb

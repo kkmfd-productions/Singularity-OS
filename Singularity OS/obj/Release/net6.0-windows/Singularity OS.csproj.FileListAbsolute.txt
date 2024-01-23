@@ -1,0 +1,17 @@
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\bin\Release\net6.0-windows\Singularity OS.exe
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\bin\Release\net6.0-windows\Singularity OS.deps.json
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\bin\Release\net6.0-windows\Singularity OS.runtimeconfig.json
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\bin\Release\net6.0-windows\Singularity OS.dll
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\bin\Release\net6.0-windows\Singularity OS.pdb
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\obj\Release\net6.0-windows\Singularity_OS.Form1.resources
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\obj\Release\net6.0-windows\Singularity_OS.Properties.Resources.resources
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\obj\Release\net6.0-windows\Singularity OS.csproj.GenerateResource.cache
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\obj\Release\net6.0-windows\Singularity OS.GeneratedMSBuildEditorConfig.editorconfig
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\obj\Release\net6.0-windows\Singularity OS.AssemblyInfoInputs.cache
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\obj\Release\net6.0-windows\Singularity OS.AssemblyInfo.cs
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\obj\Release\net6.0-windows\Singularity OS.csproj.CoreCompileInputs.cache
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\obj\Release\net6.0-windows\Singularity OS.dll
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\obj\Release\net6.0-windows\refint\Singularity OS.dll
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\obj\Release\net6.0-windows\Singularity OS.pdb
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\obj\Release\net6.0-windows\Singularity OS.genruntimeconfig.cache
+E:\KSWS\Fusion-Utility-System\Singularity OS\Singularity OS\obj\Release\net6.0-windows\ref\Singularity OS.dll
